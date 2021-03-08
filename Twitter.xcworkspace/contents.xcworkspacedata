@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/enriquerodriguez/Documents/ITC 395 Course Work/twitter_ios_starter/README.md">
+   </FileRef>
+   <FileRef
       location = "group:Twitter.xcodeproj">
    </FileRef>
    <FileRef
